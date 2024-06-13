@@ -1,0 +1,23 @@
+$ npm i react-query
+
+
+npm install react-icons --save
+
+
+npm install axios
+
+
+npm i jotai
+
+
+npm i atom
+
+
+npm install date-fns
+
+
+npm install clsx
+
+
+npm install tailwind-merge
+
