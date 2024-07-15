@@ -120,9 +120,9 @@ export default function Home() {
     return (
       <div className="flex items-center min-h-screen justify-center">
         <div>
-        <p className=" text-5xl animate-bounce">Are Bhai Ruk To Zara ... </p>
+        <p className=" text-5xl animate-bounce">Loading ... </p>
         
-        <p className="text-3xl text-center items-center animate-bounce">Server Bhari Hai</p>
+        <p className="text-3xl text-center items-center animate-bounce">Please Wait</p>
         </div>
       </div>
     );
